@@ -1,2 +1,3 @@
 # Elective Course - Introduction to Python and Machine Learning
-Repository for the course Financial Modelling with Python 
+
+This course is a brief introduction to the use of Python applied to data science.
