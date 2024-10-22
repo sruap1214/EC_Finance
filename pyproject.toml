@@ -1,0 +1,17 @@
+[project]
+name = "ec-finance"
+version = "0.1.0"
+description = "Course for initial finance"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fredapi>=0.5.2",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.2",
+    "pandas-datareader>=0.10.0",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.5.2",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.4",
+    "yfinance>=0.2.46",
+]
